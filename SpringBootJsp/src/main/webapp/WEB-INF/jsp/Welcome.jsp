@@ -7,8 +7,8 @@
 	<link rel="stylesheet" type="text/css" href="/style.css">
 </head>
 <body>
-	<h1> 
+	
 		<br> Message: ${message}
-	</h1>
+	
 </body>
 </html>
